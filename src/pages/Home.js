@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap";
 const Home = () => {
   return (
     <Container className="py-5">
-      <h1>Bienvenido a Mi Sitio</h1>
+      <h1>Billisimo</h1>
       <p>Explora mis servicios y proyectos.</p>
     </Container>
   );
