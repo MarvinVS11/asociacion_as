@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col, Card } from "react-bootstrap";
+import { Container/*, Row, Col, Card */} from "react-bootstrap";
 import "../scss/_transitions.scss";
 import '../javascript/events'
 import '../javascript/collapse'
